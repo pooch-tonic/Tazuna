@@ -1,0 +1,6 @@
+{
+  "TOKEN": "mydiscordbottoken",
+  "COPY_COMMAND": "!copy",
+  "COPY_FROM_CHANNEL_ID": "901234567890123456",
+  "COPY_TO_CHANNEL_ID": "123456789012345678"
+}

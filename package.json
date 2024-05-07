@@ -1,0 +1,14 @@
+{
+  "name": "discord-channel-copy",
+  "version": "1.0.0",
+  "description": "Overview\r This is a simple Discord bot that copies all messages from one channel and posts them to another channel using a copy command.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
